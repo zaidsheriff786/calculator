@@ -56,7 +56,7 @@ body {
   width: 100%;
 }
 .button-wrapper {
-  height: 4em;
+  height: 14vh;
   display: flex;
   justify-content: center;
   align-items: center;
